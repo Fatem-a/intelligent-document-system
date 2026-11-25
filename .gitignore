@@ -18,3 +18,12 @@ htmlcov/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Dataset files
+data/raw/
+data/processed/
+
+# Temporary dataset preparation scripts
+scripts/inspect_hotpotqa.py
+scripts/build_repositories.py
+scripts/validate_repositories.py
